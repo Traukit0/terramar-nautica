@@ -50,25 +50,25 @@ export default function ComingSoonPage() {
                   <div className="grid md:grid-cols-2 gap-4 max-w-2xl mx-auto">
                     {/* Phone */}
                     <a
-                      href="tel:+56964869316"
+                      href="tel:+56961699906"
                       className="flex items-center gap-3 p-4 rounded-lg hover:bg-accent/10 transition-colors group opacity-100 shadow-md bg-sky-50 font-medium"
                     >
                       <Phone className="h-5 w-5 text-accent group-hover:text-accent/80" />
                       <div className="text-left">
                         <p className="font-medium text-card-foreground">Teléfono</p>
-                        <p className="text-sm text-muted-foreground">+56 9 6486 9316</p>
+                        <p className="text-sm text-muted-foreground">+56 9 6169 9906</p>
                       </div>
                     </a>
 
                     {/* Email */}
                     <a
-                      href="mailto:terramar@surnet.cl"
+                      href="mailto:terramar.serviciosnauticos@surnet.cl"
                       className="flex items-center gap-3 p-4 rounded-lg hover:bg-accent/10 transition-colors group shadow-md bg-sky-50 font-medium"
                     >
                       <Mail className="h-5 w-5 text-accent group-hover:text-accent/80" />
                       <div className="text-left">
                         <p className="font-medium text-card-foreground">Email</p>
-                        <p className="text-sm text-muted-foreground">terramar@surnet.cl</p>
+                        <p className="text-sm text-muted-foreground">terramar.serviciosnauticos@surnet.cl</p>
                       </div>
                     </a>
                   </div>
@@ -87,7 +87,7 @@ export default function ComingSoonPage() {
                     className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 text-lg font-semibold"
                     asChild
                   >
-                    <a href="mailto:terramar@surnet.cl">Contáctanos Ahora</a>
+                    <a href="mailto:terramar.serviciosnauticos@surnet.cl">Contáctanos Ahora</a>
                   </Button>
                 </div>
               </div>
