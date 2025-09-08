@@ -99,6 +99,17 @@ export default function ComingSoonPage() {
         <footer className="p-6 md:p-8 text-center">
           <Card className="bg-background/90 backdrop-blur-sm border-border/50 p-4">
             <p className="text-sm text-muted-foreground">© 2025 Terramar Náutica. Todos los derechos reservados.</p>
+            <p className="text-xs text-muted-foreground mt-2">
+              Desarrollado por{" "}
+              <a 
+                href="https://trauko.dev" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-primary hover:text-primary/80 underline transition-colors"
+              >
+                trauko.dev
+              </a>
+            </p>
           </Card>
         </footer>
       </div>
