@@ -152,7 +152,7 @@ export function ContactSection() {
                         type="tel"
                         value={formData.phone}
                         onChange={(e) => handleInputChange("phone", e.target.value)}
-                        placeholder="+34 XXX XXX XXX"
+                        placeholder="+56 XXX XXX XXX"
                       />
                     </div>
 
@@ -275,7 +275,7 @@ export function ContactSection() {
                   <div>
                     <h4 className="font-semibold">Ubicación</h4>
                     <p className="text-muted-foreground">{siteData.company.address}</p>
-                    <p className="text-sm text-muted-foreground">Área de cobertura: Costa Mediterránea</p>
+                    <p className="text-sm text-muted-foreground">Área de cobertura: Costa Chilota</p>
                   </div>
                 </div>
               </CardContent>
@@ -291,7 +291,7 @@ export function ContactSection() {
                   <div className="text-center space-y-2">
                     <MapPin className="w-12 h-12 text-muted-foreground mx-auto" />
                     <p className="text-muted-foreground">Mapa de cobertura</p>
-                    <p className="text-sm text-muted-foreground">Costa Mediterránea Española</p>
+                    <p className="text-sm text-muted-foreground">Región de los Lagos</p>
                   </div>
                 </div>
               </CardContent>
