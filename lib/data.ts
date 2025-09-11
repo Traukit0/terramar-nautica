@@ -3,9 +3,9 @@ export const siteData = {
     name: "Terramar Náutica",
     tagline: "Mantenimiento y traslado profesional de embarcaciones",
     description: "Cuidamos tu embarcación con experiencia técnica y atención personalizada.",
-    phone: "+34 XXX XXX XXX",
+    phone: "+56 XXX XXX XXX",
     email: "info@terramar-nautica.com",
-    address: "Puerto Deportivo, Marina Real, España",
+    address: "Castro, Chiloé, Chile",
   },
 
   services: [
@@ -52,7 +52,7 @@ export const siteData = {
       id: 1,
       title: "Overhaul Motor Yanmar 4JH5E",
       category: "Reparaciones",
-      location: "Marina Valencia",
+      location: "Marina Quinched",
       description: "Reconstrucción completa de motor diésel con pruebas en mar y certificación.",
       image: "/yacht-engine-repair-workshop.jpg",
       beforeImage: "/damaged-marine-engine.jpg",
@@ -63,7 +63,7 @@ export const siteData = {
       id: 2,
       title: "Mantenimiento Preventivo Catamaran Lagoon 42",
       category: "Mantenimiento",
-      location: "Puerto Deportivo Alicante",
+      location: "Puerto Deportivo Quinched",
       description: "Servicio completo de mantenimiento anual con cambio de filtros y fluidos.",
       image: "/catamaran-maintenance-dock.jpg",
       beforeImage: "/catamaran-before-maintenance.jpg",
@@ -74,7 +74,7 @@ export const siteData = {
       id: 3,
       title: "Traslado Velero Beneteau Oceanis 45",
       category: "Traslados",
-      location: "Mallorca - Barcelona",
+      location: "Marina del Sur - Puerto Montt",
       description: "Traslado seguro de velero con equipo profesional y seguro completo.",
       image: "/sailing-yacht-transport-delivery.jpg",
       beforeImage: "/yacht-departure-marina.jpg",
@@ -85,7 +85,7 @@ export const siteData = {
       id: 4,
       title: "Inspección Pre-compra Sunseeker Manhattan 52",
       category: "Inspecciones",
-      location: "Puerto Banús",
+      location: "Club Náutico Reloncaví",
       description: "Inspección técnica completa para compraventa con informe detallado.",
       image: "/luxury-yacht-inspection-survey.jpg",
       beforeImage: "/yacht-hull-inspection.jpg",
@@ -96,7 +96,7 @@ export const siteData = {
       id: 5,
       title: "Reparación Sistema Propulsión Volvo Penta D6",
       category: "Reparaciones",
-      location: "Marina Ibiza",
+      location: "Marina Rauco",
       description: "Diagnóstico y reparación de sistema de propulsión con repuestos originales.",
       image: "/volvo-penta-engine-repair-marine.jpg",
       beforeImage: "/faulty-marine-propulsion-system.jpg",
@@ -107,7 +107,7 @@ export const siteData = {
       id: 6,
       title: "Logística Regata Copa del Rey",
       category: "Logística",
-      location: "Real Club Náutico Palma",
+      location: "Marina de Chinquihue",
       description: "Soporte logístico completo para flota de regata con repuestos y asistencia.",
       image: "/placeholder.svg?height=300&width=400",
       beforeImage: "/placeholder.svg?height=200&width=300",
@@ -120,7 +120,7 @@ export const siteData = {
     {
       id: "basico",
       name: "Básico",
-      price: "150€",
+      price: "$ 150.000",
       description: "Revisión rápida + afinación menor",
       features: [
         "Inspección visual completa",
@@ -132,7 +132,7 @@ export const siteData = {
     {
       id: "profesional",
       name: "Profesional",
-      price: "350€",
+      price: "$350.000",
       description: "Revisión completa con cambio de filtros",
       features: [
         "Todo lo del plan Básico",
@@ -146,7 +146,7 @@ export const siteData = {
     {
       id: "integral",
       name: "Integral",
-      price: "650€",
+      price: "$ 650.000",
       description: "Media jornada con diagnóstico completo",
       features: [
         "Todo lo del plan Profesional",
@@ -169,7 +169,7 @@ export const siteData = {
     {
       id: 1,
       name: "Carlos Mendoza",
-      role: "Armador - Yacht Club Valencia",
+      role: "Armador - Marina del Sur",
       content:
         "Excelente servicio técnico. Mi Beneteau 45 nunca había funcionado tan bien después del mantenimiento integral.",
       avatar: "/placeholder.svg?height=60&width=60",

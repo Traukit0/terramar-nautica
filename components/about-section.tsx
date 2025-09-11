@@ -26,7 +26,7 @@ export function AboutSection() {
               </h2>
               <p className="text-xl text-muted-foreground text-pretty leading-relaxed mb-6">
                 Somos un equipo de profesionales náuticos con más de 15 años de experiencia en el mantenimiento,
-                reparación y traslado de embarcaciones en la costa mediterránea española.
+                reparación y traslado de embarcaciones en la región de los Lagos.
               </p>
               <p className="text-muted-foreground text-pretty leading-relaxed">
                 Nuestra misión es mantener tu embarcación en perfecto estado con la máxima calidad técnica y atención
